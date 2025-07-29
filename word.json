@@ -1,0 +1,52 @@
+[
+  {
+    "word": "apple",
+    "pronunciation": "ˈæp.əl",
+    "translation": "manzana"
+  },
+  {
+    "word": "book",
+    "pronunciation": "bʊk",
+    "translation": "libro"
+  },
+  {
+    "word": "car",
+    "pronunciation": "kɑːr",
+    "translation": "auto"
+  },
+  {
+    "word": "dog",
+    "pronunciation": "dɔːɡ",
+    "translation": "perro"
+  },
+  {
+    "word": "elephant",
+    "pronunciation": "ˈel.ɪ.fənt",
+    "translation": "elefante"
+  },
+  {
+    "word": "flower",
+    "pronunciation": "ˈflaʊ.ər",
+    "translation": "flor"
+  },
+  {
+    "word": "guitar",
+    "pronunciation": "ɡɪˈtɑːr",
+    "translation": "guitarra"
+  },
+  {
+    "word": "house",
+    "pronunciation": "haʊs",
+    "translation": "casa"
+  },
+  {
+    "word": "island",
+    "pronunciation": "ˈaɪ.lənd",
+    "translation": "isla"
+  },
+  {
+    "word": "juice",
+    "pronunciation": "dʒuːs",
+    "translation": "jugo"
+  }
+]
